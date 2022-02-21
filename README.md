@@ -10,6 +10,7 @@ Analysis of the data brought forward a few key points:
 
     •  The data output from the Retiring Titles table shows a large number of senior employees.
 ![point3](https://user-images.githubusercontent.com/96558665/154890661-5a4c8625-ff6e-459c-910a-99793988a912.png)
+
     • The significance of the above image, is based on the data shown is that in the next few years we can expect to see a tsunami of retiring employees.
 
 Summary
