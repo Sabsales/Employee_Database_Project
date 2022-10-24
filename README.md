@@ -1,5 +1,5 @@
 # Employee_Database_Project
-This project was forumulated to gather and analyze data on employees that are retiring or have the potential to do so.
+
 Purpose
 
 The purpose of the project is to analyze the employee data and determine the employees most likely to retire in the next few years.
